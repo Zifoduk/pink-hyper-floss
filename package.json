@@ -1,0 +1,21 @@
+{
+  "name": "pink-hyper-floss",
+  "displayName": "Pink Hyper Floss",
+  "description": "Light Version of the Pink Floss theme. Pink Hyper Floss",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Hyper Floss (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Pink Hyper Floss (Light)-color-theme.json"
+      }
+    ]
+  }
+}
